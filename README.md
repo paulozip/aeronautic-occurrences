@@ -6,11 +6,20 @@ Occurrences.csv: it contains the data of each occurrence recorded in the last 10
 Aircraft.csv: CSV file containing information about aircrafts envolved in registered occurrence. Here you will find the following type of data: Aircraft Model, Aircraft Type, Manufacturer, Fatalities, and so on.
 
 # Questions to answer
-<li>What are the major occurrence causes and, eventually, airplane falling?</li>
-<li>How it has progressed in the last years? Was there fewer or more occurrences?</li>
-<li>Which states did register more occurrences?</li>
-<li>What kind of aircraft has shown more problems? Airplanes, jets, gliders?</li>
-<li>What are the manufacturers that has shown more faults?</li>
-<li>Is more likely the aircraft fail during the takeoff or during the landing? Is the cruise phase a risk moment?</li>
-<li>Do regular trips have more occurrences than chartered flights?</li>
-<li>How many fatalities have we registered in the last 10 years?</li>
+1. What are the major occurrence causes and, eventually, airplane falling?
+2. How it has progressed in the last years? Was there fewer or more occurrences?
+3. Which states did register more occurrences?
+4. What kind of aircraft has shown more problems? Airplanes, jets, gliders?
+5. What are the manufacturers that has shown more faults?
+6. Is more likely the aircraft fail during the takeoff or during the landing? Is the cruise phase a risk moment?
+7. Do regular trips have more occurrences than chartered flights?
+8. How many fatalities have we registered in the last 10 years?
+
+# Requirements
+
+<li>Python 3.5</li>
+<li>Pandas</li>
+<li>Matplotlib</li>
+<li>Random</li>
+
+You can use pip to install each one of these libraries.
