@@ -3,9 +3,9 @@
 # Aeronautic occurrences in Brazil
 In this presentation I will be using open data that were available by CENIPA - Centro de Investigação e Prevenção de Acidentes aeronáuticos - or Aeronautical Accidents Investigation and Prevention Center. You may have access to newer data by visiting the <a href='http://dados.gov.br/dataset/ocorrencias-aeronauticas-da-aviacao-civil-brasileira'>Brazilian Open Data's official website</a>, or just clicking in the following links in order to download the datasets:
 
-Occurrences.csv: it contains the data of each occurrence recorded in the last 10 years. Occurrence ID, Date, Occurrence cause and Location are found in this dataset.
+<a href='https://github.com/paulozip/aeronautic-occurrences/blob/master/dataset/occurrences.csv'>Occurrences.csv</a>: it contains the data of each occurrence recorded in the last 10 years. Occurrence ID, Date, Occurrence cause and Location are found in this dataset.
 
-Aircraft.csv: CSV file containing information about aircrafts envolved in registered occurrence. Here you will find the following type of data: Aircraft Model, Aircraft Type, Manufacturer, Fatalities, and so on.
+<a href='https://github.com/paulozip/aeronautic-occurrences/blob/master/dataset/aircrafts.csv'>Aircraft.csv</a>: CSV file containing information about aircrafts envolved in registered occurrence. Here you will find the following type of data: Aircraft Model, Aircraft Type, Manufacturer, Fatalities, and so on.
 
 # Questions to answer
 1. What are the major occurrence causes and, eventually, airplane falling?
