@@ -16,7 +16,7 @@ aircrafts.columns = ['aircraft_id', 'occurrence_id', 'registration', 'operator_i
                     'registration_country', 'registration_category', 'registration_aviation', 'origin_flight', 
                     'destination_flight', 'operation_phase', 'type_operation', 'damage_level', 'fatalities_amount',
                     'extraction_day']
-
+#teste
 #equipment translation
 aircrafts['equipment'] = aircrafts['equipment'].map({'AVIÃO': 'AIRPLANE',
                                                    'HELICÓPTERO': 'HELICOPTER',
